@@ -1,48 +1,5 @@
 ## My solutions to Leetcode
 
-I will put my solutions to [Leetcode Problems](https://leetcode.com/problemset/all/) in this repo. Every problem will be solved in C++; part of the problems will be solved in Java also. I will try my best to support more language in the future :)
-
-Please feel free to contact me if you have any questions with this repo:)
-
-email: [liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
-
----
-
-大家好，欢迎大家来到我的 **Leetcode 算法题解**代码仓。在这个代码仓中，近乎每一个问题都会使用多种方式进行解决，同时标注了简明的算法思想，时间复杂度和空间复杂度。所有问题都会使用C++进行解决，各别问题支持Java语言和Python语言。
-
-如果对代码仓有任何问题，欢迎联系我：）
-
-**电子邮件**：[liuyubobobo@gmail.com](mailto:liuyubobobo@gmail.com)
-
-**知乎**: [刘宇波 http://www.zhihu.com/people/liuyubobobo](http://www.zhihu.com/people/liuyubobobo)
-
-**知乎专栏：**[是不是很酷 https://zhuanlan.zhihu.com/liuyubobobo](https://zhuanlan.zhihu.com/liuyubobobo)
-
-**个人公众号：是不是很酷**：）
-
-![QRCode](qrcode.png)
-
-**知识星球（免费）**
-
-![zsxq](zsxq.jpg)
-
-<br/>
-
-## 其他相关代码仓
-
-* [**《算法与数据结构》课程**](https://coding.imooc.com/class/71.html), 代码仓: [Play-with-Algorithms](https://github.com/liuyubobobo/Play-with-Algorithms)
- 
-* [**《玩转算法面试》课程**](https://coding.imooc.com/class/82.html), 代码仓: [Play-with-Algorithm-Interview](https://github.com/liuyubobobo/Play-with-Algorithm-Interview)
-
-* [**《看得见的算法》课程**](https://coding.imooc.com/class/138.html), 代码仓: [Play-with-Algorithm-Visualization](https://github.com/liuyubobobo/Play-with-Algorithm-Visualization)
-
-* [**《玩转数据结构》课程**](https://coding.imooc.com/class/207.html), 代码仓: [Play-with-Data-Structures](https://github.com/liuyubobobo/Play-with-Data-Structures)
-
-* [**《玩转图论算法》课程**](https://coding.imooc.com/class/370.html), 代码仓: [Play-with-Graph-Algorithms](https://github.com/liuyubobobo/Play-with-Graph-Algorithms)
-
-* **LeetCode Database 题解代码仓**：[Play Leetcode Database](https://github.com/liuyubobobo/Play-Leetcode-Database/)
-
-
 ## Problems
 
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
