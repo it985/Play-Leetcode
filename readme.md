@@ -2244,7 +2244,9 @@
 | | | | | | |
 | 2422 | [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/) | [无] | [C++](2001-2500/2422-Merge-Operations-to-Turn-Array-Into-a-Palindrome/cpp-2422/) | | |
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [无] | [C++](2001-2500/2423-Remove-Letter-To-Equalize-Frequency/cpp-2423/) | | |
-| | | | | | |
+| 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | [无] | [C++](2001-2500/2424-Longest-Uploaded-Prefix/cpp-2424/) | | |
+| 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings/) | [无] | [C++](2001-2500/2425-Bitwise-XOR-of-All-Pairings/cpp-2425/) | | |
+| 2426 | [Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/) | [无]<br/>[缺：493 问题整理] | [C++](2001-2500/2426-Number-of-Pairs-Satisfying-Inequality/cpp-2426/) | | |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/) | [无] | [C++](2001-2500/2427-Number-of-Common-Factors/cpp-2427/) | | |
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [无] | [C++](2001-2500/2428-Maximum-Sum-of-an-Hourglass/cpp-2428/) | | |
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [无] | [C++](2001-2500/2429-Minimize-XOR/cpp-2429/) | | |
