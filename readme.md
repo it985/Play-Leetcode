@@ -2251,6 +2251,7 @@
 | 2428 | [Maximum Sum of an Hourglass](https://leetcode.com/problems/maximum-sum-of-an-hourglass/) | [无] | [C++](2001-2500/2428-Maximum-Sum-of-an-Hourglass/cpp-2428/) | | |
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [无] | [C++](2001-2500/2429-Minimize-XOR/cpp-2429/) | | |
 | 2430 | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [无] | [C++](2001-2500/2430-Maximum-Deletions-on-a-String/cpp-2430/) | | |
+| 2431 | [Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/) | [无] | [C++](2001-2500/2431-Maximize-Total-Tastiness-of-Purchased-Fruits/cpp-2431/) | | |
 | | | | | | |
 
 ## 力扣中文站比赛
@@ -2310,6 +2311,11 @@
 
 | ID | Problem | Official<br/>Solution | C++ | Java | Python |
 | --- | --- | :---: | :---: | :---: | :---: |
+| | | | | | |
+| 22 天堂硅谷-4 | [补给覆盖](https://leetcode.cn/contest/hhrc2022/problems/wFtovi/) | [无] | [C++](Others/2022-hhrc/D/) | | |
+| 22 天堂硅谷-3 | [重复的彩灯树](https://leetcode.cn/contest/hhrc2022/problems/VAc7h3/) | [无] | [C++](Others/2022-hhrc/C/) | | |
+| 22 天堂硅谷-2 | [销售出色区间](https://leetcode.cn/contest/hhrc2022/problems/0Wx4Pc/) | [无] | [C++](Others/2022-hhrc/B/) | | |
+| 22 天堂硅谷-1 | [化学反应](https://leetcode.cn/contest/hhrc2022/problems/o0Ma2v/) | [无] | [C++](Others/2022-hhrc/A/) | | |
 | | | | | | |
 | 22秋 银联-4 | [设计自动售货机](https://leetcode.cn/contest/cnunionpay2022/problems/NyZD2B/) | [无] | [C++](Others/2022fall-cnunionpay/D/) | | |
 | 22秋 银联-3 | [风能发电](https://leetcode.cn/contest/cnunionpay2022/problems/wMGN0t/) | [无] | [C++](Others/2022fall-cnunionpay/C/) | | |
