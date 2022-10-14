@@ -2237,11 +2237,11 @@
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [无] | [C++](2001-2500/2414-Length-of-the-Longest-Alphabetical-Continuous-Substring/cpp-2414/) | | |
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [无] | [C++](2001-2500/2415-Reverse-Odd-Levels-of-Binary-Tree/cpp-2415/) | | |
 | 2416 | [Sum of Prefix Scores of Strings](https://leetcode.com/problems/sum-of-prefix-scores-of-strings/) | [无] | [C++](2001-2500/2416-Sum-of-Prefix-Scores-of-Strings/cpp-2416/) | | |
-| | | | | | |
+| 2417 | [Closest Fair Integer](https://leetcode.com/problems/closest-fair-integer/) | [无] | [C++](2001-2500/2417-Closest-Fair-Integer/cpp-2417/) | | |
 | 2418 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | [无] | [C++](2001-2500/2418-Sort-the-People/cpp-2418/) | | |
 | 2419 | [Longest Subarray With Maximum Bitwise AND](https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/) | [无] | [C++](2001-2500/2419-Longest-Subarray-With-Maximum-Bitwise-AND/cpp-2419/) | | |
 | 2420 | [Find All Good Indices](https://leetcode.com/problems/find-all-good-indices/) | [无] | [C++](2001-2500/2420-Find-All-Good-Indices/cpp-2420/) | | |
-| | | | | | |
+| 2421 | [Number of Good Paths](https://leetcode.com/problems/number-of-good-paths/) | [无] | [C++](2001-2500/2421-Number-of-Good-Paths/cpp-2421/) | | |
 | 2422 | [Merge Operations to Turn Array Into a Palindrome](https://leetcode.com/problems/merge-operations-to-turn-array-into-a-palindrome/) | [无] | [C++](2001-2500/2422-Merge-Operations-to-Turn-Array-Into-a-Palindrome/cpp-2422/) | | |
 | 2423 | [Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/) | [无] | [C++](2001-2500/2423-Remove-Letter-To-Equalize-Frequency/cpp-2423/) | | |
 | 2424 | [Longest Uploaded Prefix](https://leetcode.com/problems/longest-uploaded-prefix/) | [无] | [C++](2001-2500/2424-Longest-Uploaded-Prefix/cpp-2424/) | | |
@@ -2252,6 +2252,11 @@
 | 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor/) | [无] | [C++](2001-2500/2429-Minimize-XOR/cpp-2429/) | | |
 | 2430 | [Maximum Deletions on a String](https://leetcode.com/problems/maximum-deletions-on-a-string/) | [无] | [C++](2001-2500/2430-Maximum-Deletions-on-a-String/cpp-2430/) | | |
 | 2431 | [Maximize Total Tastiness of Purchased Fruits](https://leetcode.com/problems/maximize-total-tastiness-of-purchased-fruits/) | [无] | [C++](2001-2500/2431-Maximize-Total-Tastiness-of-Purchased-Fruits/cpp-2431/) | | |
+| 2432 | [The Employee That Worked on the Longest Task](https://leetcode.com/problems/the-employee-that-worked-on-the-longest-task/) | [无] | [C++](2001-2500/2432-The-Employee-That-Worked-on-the-Longest-Task/cpp-2432/) | | |
+| 2433 | [Find The Original Array of Prefix Xor](https://leetcode.com/problems/find-the-original-array-of-prefix-xor/) | [无] | [C++](2001-2500/2433-Find-The-Original-Array-of-Prefix-Xor/cpp-2433/) | | |
+| 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [无] | [C++](2001-2500/2434-Using-a-Robot-to-Print-the-Lexicographically-Smallest-String/cpp-2434/) | | |
+| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [无] | [C++](2001-2500/2435-Paths-in-Matrix-Whose-Sum-Is-Divisible-by-K/cpp-2435/) | | |
+| 2436 | [Minimum Split Into Subarrays With GCD Greater Than One](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/) | [无] | [C++](2001-2500/2436-Minimum-Split-Into-Subarrays-With-GCD-Greater-Than-One/cpp-2436/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
