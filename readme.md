@@ -1387,6 +1387,8 @@
 | | | | | | |
 | 1527 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
+| 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [无] | [C++](1501-2000/1531-String-Compression-II/cpp-1531/) | | |
+| | | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
 | | | | | | |
 | 1559 | [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) | [无] | [C++](1501-2000/1559-Detect-Cycles-in-2D-Grid/cpp-1559/) | | |
@@ -2257,6 +2259,14 @@
 | 2434 | [Using a Robot to Print the Lexicographically Smallest String](https://leetcode.com/problems/using-a-robot-to-print-the-lexicographically-smallest-string/) | [无] | [C++](2001-2500/2434-Using-a-Robot-to-Print-the-Lexicographically-Smallest-String/cpp-2434/) | | |
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](https://leetcode.com/problems/paths-in-matrix-whose-sum-is-divisible-by-k/) | [无] | [C++](2001-2500/2435-Paths-in-Matrix-Whose-Sum-Is-Divisible-by-K/cpp-2435/) | | |
 | 2436 | [Minimum Split Into Subarrays With GCD Greater Than One](https://leetcode.com/problems/minimum-split-into-subarrays-with-gcd-greater-than-one/) | [无] | [C++](2001-2500/2436-Minimum-Split-Into-Subarrays-With-GCD-Greater-Than-One/cpp-2436/) | | |
+| 2437 | [Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/) | [无] | [C++](2001-2500/2437-Number-of-Valid-Clock-Times/cpp-2437/) | | |
+| 2438 | [Range Product Queries of Powers](https://leetcode.com/problems/range-product-queries-of-powers/) | [无] | [C++](2001-2500/2438-Range-Product-Queries-of-Powers/cpp-2438/) | | |
+| 2439 | [Minimize Maximum of Array](https://leetcode.com/problems/minimize-maximum-of-array/) | [无] | [C++](2001-2500/2439-Minimize-Maximum-of-Array/cpp-2439/) | | |
+| 2440 | [Create Components With Same Value](https://leetcode.com/problems/create-components-with-same-value/) | [无] | [C++](2001-2500/2440-Create-Components-With-Same-Value/cpp-2440/) | | |
+| 2441 | [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/) | [无] | [C++](2001-2500/2441-Largest-Positive-Integer-That-Exists-With-Its-Negative/cpp-2441/) | | |
+| 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [无] | [C++](2001-2500/2442-Count-Number-of-Distinct-Integers-After-Reverse-Operations/cpp-2442/) | | |
+| 2443 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/) | [无] | [C++](2001-2500/2443-Sum-of-Number-and-Its-Reverse/cpp-2443/) | | |
+| 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [无] | [C++](2001-2500/2444-Count-Subarrays-With-Fixed-Bounds/cpp-2444/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
