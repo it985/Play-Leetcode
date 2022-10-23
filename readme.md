@@ -737,6 +737,7 @@
 | | | | | | |
 | 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [solution](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [C++](0501-1000/0774-Minimize-Max-Distance-to-Gas-Station/cpp-0774/) | | |
 | | | | | | |
+| 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [无] | [C++](0501-1000/0779-K-th-Symbol-in-Grammar/cpp-0779/) | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [solution](https://leetcode.com/problems/reaching-points/solution/) | [C++](0501-1000/0780-Reaching-Points/cpp-0780/) | | |
 | 781 | [Rabbits in Forest](https://leetcode.com/problems/rabbits-in-forest/description/) | [solution](https://leetcode.com/problems/rabbits-in-forest/solution/) | [C++](0501-1000/0781-Rabbits-in-Forest/cpp-0781/) | | |
 | 782 | [Transform to Chessboard](https://leetcode.com/problems/transform-to-chessboard/) | [solution](https://leetcode.com/problems/transform-to-chessboard/solution/) | [C++](0501-1000/0782-Transform-to-Chessboard/cpp-0782/) | | |
@@ -1387,7 +1388,7 @@
 | | | | | | |
 | 1527 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
-| 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [无] | [C++](1501-2000/1531-String-Compression-II/cpp-1531/) | | |
+| 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [无][缺：其他解法] | [C++](1501-2000/1531-String-Compression-II/cpp-1531/) | | |
 | | | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
 | | | | | | |
@@ -2267,6 +2268,11 @@
 | 2442 | [Count Number of Distinct Integers After Reverse Operations](https://leetcode.com/problems/count-number-of-distinct-integers-after-reverse-operations/) | [无] | [C++](2001-2500/2442-Count-Number-of-Distinct-Integers-After-Reverse-Operations/cpp-2442/) | | |
 | 2443 | [Sum of Number and Its Reverse](https://leetcode.com/problems/sum-of-number-and-its-reverse/) | [无] | [C++](2001-2500/2443-Sum-of-Number-and-Its-Reverse/cpp-2443/) | | |
 | 2444 | [Count Subarrays With Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/) | [无] | [C++](2001-2500/2444-Count-Subarrays-With-Fixed-Bounds/cpp-2444/) | | |
+| 2445 | [Number of Nodes With Value One](https://leetcode.com/problems/number-of-nodes-with-value-one/) | [无] | [C++](2001-2500/2445-Number-of-Nodes-With-Value-One/cpp-2445/) | | |
+| 2446 | [Determine if Two Events Have Conflict](https://leetcode.com/problems/determine-if-two-events-have-conflict/) | [无] | [C++](2001-2500/2446-Determine-if-Two-Events-Have-Conflict/cpp-2446/) | | |
+| 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | [无] | [C++](2001-2500/2447-Number-of-Subarrays-With-GCD-Equal-to-K/cpp-2447/) | | |
+| 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [无] | [C++](2001-2500/2448-Minimum-Cost-to-Make-Array-Equal/cpp-2448/) | | |
+| 2449 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [无] | [C++](2001-2500/2449-Minimum-Number-of-Operations-to-Make-Arrays-Similar/cpp-2449/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
