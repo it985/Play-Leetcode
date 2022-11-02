@@ -469,12 +469,13 @@
 | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/description/) | [solution](https://leetcode.com/problems/generate-random-point-in-a-circle/solution/) | [C++](0001-0500/0478-Generate-Random-Point-in-a-Circle/cpp-0478/) | | |
 | 479 | [Largest Palindrome Product](https://leetcode.com/problems/largest-palindrome-product/) | [无] | [C++](0001-0500/0479-Largest-Palindrome-Product/cpp-0479/) | | |
 | 480 | [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) | [无]<br/>[缺：双数据结构] | [C++](0001-0500/0480-Sliding-Window-Median/cpp-0480/) | | |
-| | | | | | |
+| 481 | [Magical String](https://leetcode.com/problems/magical-string/) | [无] | [C++](0001-0500/0481-Magical-String/cpp-0481/) | | |
 | 482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting/) | [无] | [C++](0001-0500/0482-License-Key-Formatting/cpp-0482/) | | |
 | 483 | [Smallest Good Base](https://leetcode.com/problems/smallest-good-base/) | [无] | [C++](0001-0500/0483-Smallest-Good-Base/cpp-0483/) | | |
 | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) | [solution](https://leetcode.com/problems/find-permutation/solution/) | [C++](0001-0500/0484-Find-Permutation/cpp-0484/) | | |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [无] | [C++](0001-0500/0485-Max-Consecutive-Ones/cpp-0485/) | | |
 | | | | | | |
+| 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) | [无] | [C++](0001-0500/0487-Max-Consecutive-Ones-II/cpp-0487/) | | |
 | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [无] | [C++](0001-0500/0488-Zuma-Game/cpp-0488/) | | |
 | 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | [solution](https://leetcode.com/problems/robot-room-cleaner/solution/) | [C++](0001-0500/0489-Robot-Room-Cleaner/cpp-0489/) | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0001-0500/0490-The-Maze/cpp-0490/) | | |
@@ -2274,6 +2275,15 @@
 | 2447 | [Number of Subarrays With GCD Equal to K](https://leetcode.com/problems/number-of-subarrays-with-gcd-equal-to-k/) | [无] | [C++](2001-2500/2447-Number-of-Subarrays-With-GCD-Equal-to-K/cpp-2447/) | | |
 | 2448 | [Minimum Cost to Make Array Equal](https://leetcode.com/problems/minimum-cost-to-make-array-equal/) | [无] | [C++](2001-2500/2448-Minimum-Cost-to-Make-Array-Equal/cpp-2448/) | | |
 | 2449 | [Minimum Number of Operations to Make Arrays Similar](https://leetcode.com/problems/minimum-number-of-operations-to-make-arrays-similar/) | [无] | [C++](2001-2500/2449-Minimum-Number-of-Operations-to-Make-Arrays-Similar/cpp-2449/) | | |
+| 2450 | [Number of Distinct Binary Strings After Applying Operations](https://leetcode.com/problems/number-of-distinct-binary-strings-after-applying-operations/) | [无] | [C++](2001-2500/2450-Number-of-Distinct-Binary-Strings-After-Applying-Operations/cpp-2450/) | | |
+| 2451 | [Odd String Difference](https://leetcode.com/problems/odd-string-difference/) | [无] | [C++](2001-2500/2451-Odd-String-Difference/cpp-2451/) | | |
+| 2452 | [Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/) | [无] | [C++](2001-2500/2452-Words-Within-Two-Edits-of-Dictionary/cpp-2452/) | | |
+| 2453 | [Destroy Sequential Targets](https://leetcode.com/problems/destroy-sequential-targets/) | [无] | [C++](2001-2500/2453-Destroy-Sequential-Targets/cpp-2453/) | | |
+| 2454 | [Next Greater Element IV](https://leetcode.com/problems/next-greater-element-iv/) | [无]<br/>[缺：O(n) 解法] | [C++](2001-2500/2454-Next-Greater-Element-IV/cpp-2454/) | | |
+| 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/) | [无] | [C++](2001-2500/2455-Average-Value-of-Even-Numbers-That-Are-Divisible-by-Three/cpp-2455/) | | |
+| 2456 | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [无] | [C++](2001-2500/2456-Most-Popular-Video-Creator/cpp-2456/) | | |
+| 2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [无] | [C++](2001-2500/2457-Minimum-Addition-to-Make-Integer-Beautiful/cpp-2457/) | | |
+| 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [无] | [C++](2001-2500/2458-Height-of-Binary-Tree-After-Subtree-Removal-Queries/cpp-2458/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
