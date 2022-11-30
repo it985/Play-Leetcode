@@ -737,6 +737,7 @@
 | 772 | [Basic Calculator III](https://leetcode.com/problems/basic-calculator-iii/description/) | [无] | [C++](0501-1000/0772-Basic-Calculator-III/cpp-0772/) | | |
 | | | | | | |
 | 774 | [Minimize Max Distance to Gas Station](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [solution](https://leetcode.com/problems/minimize-max-distance-to-gas-station/) | [C++](0501-1000/0774-Minimize-Max-Distance-to-Gas-Station/cpp-0774/) | | |
+| 775 | [Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) | [C++](0501-1000/0775-Global-and-Local-Inversions/cpp-0775/) | | | |
 | | | | | | |
 | 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [无] | [C++](0501-1000/0779-K-th-Symbol-in-Grammar/cpp-0779/) | | |
 | 780 | [Reaching Points](https://leetcode.com/problems/reaching-points/description/) | [solution](https://leetcode.com/problems/reaching-points/solution/) | [C++](0501-1000/0780-Reaching-Points/cpp-0780/) | | |
@@ -772,6 +773,7 @@
 | 810 | [Chalkboard XOR Game](https://leetcode.com/problems/chalkboard-xor-game/) | [solution](https://leetcode.com/problems/chalkboard-xor-game/solution/) | [C++](0501-1000/0810-Chalkboard-XOR-Game/cpp-0810/) | | |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/description/) | [solution](https://leetcode.com/problems/subdomain-visit-count/solution/) | [C++](0501-1000/0811-Subdomain-Visit-Count/cpp-0811/) | | |
 | | | | | | |
+| 813 | [Largest Sum of Averages](https://leetcode.com/problems/largest-sum-of-averages/description/) | [solution](https://leetcode.com/problems/largest-sum-of-averages/solutions/) | [C++](0501-1000/0813-Largest-Sum-of-Averages/cpp-0813/) | | |
 | 814 | [Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/) | [solution](https://leetcode.com/problems/binary-tree-pruning/solution/) | [C++](0501-1000/0814-Binary-Tree-Pruning/cpp-0814/) | | |
 | 815 | [Bus Routes](https://leetcode.com/problems/bus-routes/) | [solution](https://leetcode.com/problems/bus-routes/solution/) | [C++](0501-1000/0815-Bus-Routes/cpp-0815/) | | |
 | | | | | | |
@@ -1215,6 +1217,8 @@
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers/) | [无] | [C++](1001-1500/1317-Convert-Integer-to-the-Sum-of-Two-No-Zero-Integers/cpp-1317/) | | |
 | 1318 | [Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) | [无] | [C++](1001-1500/1318-Minimum-Flips-to-Make-a-OR-b-Equal-to-c/cpp-1318/) | | |
 | 1319 | [Number of Operations to Make Network Connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/) | [无] | [C++](1001-1500/1319-Number-of-Operations-to-Make-Network-Connected/cpp-1319/) | | |
+| | | | | | |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/description/) | [无] | [C++](1001-1500/1323-Maximum-69-Number/cpp-1323/) | | |
 | | | | | | |
 | 1328 | [Break a Palindrome](https://leetcode.com/problems/break-a-palindrome/) | [solution](https://leetcode.com/problems/break-a-palindrome/solution/) | [C++](1001-1500/1328-Break-a-Palindrome/cpp-1328/) | | |
 | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [solution](https://leetcode.com/problems/sort-the-matrix-diagonally/solution/) | [C++](1001-1500/1329-Sort-the-Matrix-Diagonally/cpp-1329/) | | |
@@ -2284,6 +2288,21 @@
 | 2456 | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [无] | [C++](2001-2500/2456-Most-Popular-Video-Creator/cpp-2456/) | | |
 | 2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [无] | [C++](2001-2500/2457-Minimum-Addition-to-Make-Integer-Beautiful/cpp-2457/) | | |
 | 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [无] | [C++](2001-2500/2458-Height-of-Binary-Tree-After-Subtree-Removal-Queries/cpp-2458/) | | |
+| | | | | | |
+| 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [无] | [C++](2001-2500/2460-Apply-Operations-to-an-Array/cpp-2460/) | | |
+| 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [无] | [C++](2001-2500/2461-Maximum-Sum-of-Distinct-Subarrays-With-Length-K/cpp-2461/) | | |
+| 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [无] | [C++](2001-2500/2462-Total-Cost-to-Hire-K-Workers/cpp-2462/) | | |
+| 2463 | [Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled/) | [无] | [C++](2001-2500/2463-Minimum-Total-Distance-Traveled/cpp-2463/) | | |
+| 2464 | [Minimum Subarrays in a Valid Split](https://leetcode.com/problems/minimum-subarrays-in-a-valid-split/description/) | [无] | [C++](2001-2500/2464-Minimum-Subarrays-in-a-Valid-Split/cpp-2464/) | | |
+| 2465 | [Number of Distinct Averages](https://leetcode.com/problems/number-of-distinct-averages/) | [无] | [C++](2001-2500/2465-Number-of-Distinct-Averages/cpp-2465/) | | |
+| 2466 | [Count Ways To Build Good Strings](https://leetcode.com/problems/count-ways-to-build-good-strings/) | [无] | [C++](2001-2500/2466-Count-Ways-To-Build-Good-Strings/cpp-2466/) | | |
+| 2467 | [Most Profitable Path in a Tree](https://leetcode.com/problems/most-profitable-path-in-a-tree/) | [无] | [C++](2001-2500/2467-Most-Profitable-Path-in-a-Tree/cpp-2467/) | | |
+| 2468 | [Split Message Based on Limit](https://leetcode.com/problems/split-message-based-on-limit/) | [无] | [C++](2001-2500/2468-Split-Message-Based-on-Limit/cpp-2468/) | | |
+| 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/) | [无] | [C++](2001-2500/2469-Convert-the-Temperature/cpp-2469/) | | |
+| 2470 | [Number of Subarrays With LCM Equal to K](https://leetcode.com/problems/number-of-subarrays-with-lcm-equal-to-k/) | [无] | [C++](2001-2500/2470-Number-of-Subarrays-With-LCM-Equal-to-K/cpp-2470/) | | |
+| 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [无] | [C++](2001-2500/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/cpp-2471/) | | |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [无] | [C++](2001-2500/2472-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/cpp-2472/) | | |
+| 2473 | [Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/description/) | [无] | [C++](2001-2500/2473-Minimum-Cost-to-Buy-Apples/cpp-2473/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
