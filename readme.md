@@ -60,7 +60,7 @@
 | 054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [solution](https://leetcode.com/problems/spiral-matrix/solution/) | [C++](0001-0500/0054-Spiral-Matrix/cpp-0054/) | | |
 | 055 | [Jump Game](https://leetcode.com/problems/jump-game/) | [solution](https://leetcode.com/problems/jump-game/solution/) | [C++](0001-0500/0055-Jump-Game/cpp-0055/) | | |
 | 056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [solution](https://leetcode.com/problems/merge-intervals/solution/) | [C++](0001-0500/0056-Merge-Intervals/cpp-0056/) | | |
-| | | | | | |
+| 057 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [solution](https://leetcode.com/problems/insert-interval/solutions/2914120/insert-intervals/?orderBy=most_votes) | [C++](0001-0500/0057-Insert-Interval/cpp-0057/) | | |
 | 058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [solution](https://leetcode.com/problems/length-of-last-word/solution/) | [C++](0001-0500/0058-Length-of-Last-Word/cpp-0058/) | | |
 | 059 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/description/) | [无] | [C++](0001-0500/0059-Spiral-Matrix-II/cpp-0059/) | | |
 | | | | | | |
@@ -479,7 +479,7 @@
 | 488 | [Zuma Game](https://leetcode.com/problems/zuma-game/) | [无] | [C++](0001-0500/0488-Zuma-Game/cpp-0488/) | | |
 | 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) | [solution](https://leetcode.com/problems/robot-room-cleaner/solution/) | [C++](0001-0500/0489-Robot-Room-Cleaner/cpp-0489/) | | |
 | 490 | [The Maze](https://leetcode.com/problems/the-maze/description/) | [solution](https://leetcode.com/problems/the-maze/solution/) | [C++](0001-0500/0490-The-Maze/cpp-0490/) | | |
-| | | | | | |
+| 491 | [Non-decreasing Subsequences](https://leetcode.com/problems/non-decreasing-subsequences/description/) | [无] | [C++](0001-0500/0491-Non-decreasing-Subsequences/cpp-0491/) | | |
 | 492 | [Construct the Rectangle](https://leetcode.com/problems/construct-the-rectangle/) | [无] | [C++](0001-0500/0492-Construct-the-Rectangle/cpp-0492/) | | |
 | | | | | | |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/description/) | [solution](https://leetcode.com/problems/target-sum/solution/) | [C++](0001-0500/0494-Target-Sum/cpp-0494/) | | |
@@ -1010,9 +1010,14 @@
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | [无] | [C++](1001-1500/1051-Height-Checker/cpp-1051/) | | |
 | 1052 | [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/) | [无] | [C++](1001-1500/1052-Grumpy-Bookstore-Owner/cpp-1052/) | | |
 | | | | | | |
+| 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number/description/) | [无] | [C++](1001-1500/1056-Confusing-Number/cpp-1056/) | | |
+| | | | | | |
 | 1059 | [All Paths from Source Lead to Destination](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/) | [solution](https://leetcode.com/problems/all-paths-from-source-lead-to-destination/solution/) | [C++](1001-1500/1059-All-Paths-from-Source-Lead-to-Destination/cpp-1059/) | | |
 | | | | | | |
+| 1061 | [Lexicographically Smallest Equivalent String](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/) | [无] | [C++](1001-1500/1061-Lexicographically-Smallest-Equivalent-String/cpp-1061/) | | |
 | 1062 | [Longest Repeating Substring](https://leetcode.com/problems/longest-repeating-substring/) | [无] | [C++](1001-1500/1062-Longest-Repeating-Substring/cpp-1062/) | | |
+| | | | | | |
+| 1066 | [Campus Bikes II](https://leetcode.com/problems/campus-bikes-ii/) | [solution](https://leetcode.com/problems/campus-bikes-ii/solutions/1451959/campus-bikes-ii/) | [C++](1001-1500/1066-Campus-Bikes-II/cpp-1066/) | | |
 | | | | | | |
 | 1072 | [Flip Columns For Maximum Number of Equal Rows](https://leetcode.com/problems/flip-columns-for-maximum-number-of-equal-rows/) | [无] | [C++](1001-1500/1072-Flip-Columns-For-Maximum-Number-of-Equal-Rows/cpp-1072/) | | |
 | | | | | | |
@@ -1026,7 +1031,7 @@
 | 1084 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1087 | [Brace Expansion](https://leetcode.com/problems/brace-expansion/) | [无] | [C++](1001-1500/1087-Brace-Expansion/cpp-1087/) | | |
-| | | | | | |
+| 1088 | [Confusing Number II](https://leetcode.com/problems/confusing-number-ii/description/) | [无] | [C++](1001-1500/1088-Confusing-Number-II/cpp-1088/) | | |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/) | [无] | [C++](1001-1500/1089-Duplicate-Zeros/cpp-1089/) | | |
 | 1090 | [Largest Values From Labels](https://leetcode.com/problems/largest-values-from-labels/) | [无] | [C++](1001-1500/1090-Largest-Values-From-Labels/cpp-1090/) | | |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [无] | [C++](1001-1500/1091-Shortest-Path-in-Binary-Matrix/cpp-1091/) | | |
@@ -1390,11 +1395,15 @@
 | | | | | | |
 | 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) | [solution](https://leetcode.com/problems/find-root-of-n-ary-tree/solution/) | [C++](1501-2000/1506-Find-Root-of-N-Ary-Tree/cpp-1506/) | | |
 | | | | | | |
+| 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/description/) | [solution](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/solutions/2864718/number-of-nodes-in-the-sub-tree-with-the-same-label/?orderBy=most_votes) | [C++](1501-2000/1519-Number-of-Nodes-in-the-Sub-Tree-With-the-Same-Label/cpp-1519/) | | |
+| | | | | | |
 | 1522 | [Diameter of N-Ary Tree](https://leetcode.com/problems/diameter-of-n-ary-tree/) | [无] | [C++](1501-2000/1522-Diameter-of-N-Ary-Tree/cpp-1522/) | | |
 | | | | | | |
 | 1527 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
 | | | | | | |
 | 1531 | [String Compression II](https://leetcode.com/problems/string-compression-ii/) | [无][缺：其他解法] | [C++](1501-2000/1531-String-Compression-II/cpp-1531/) | | |
+| | | | | | |
+| 1533 | [Find the Index of the Large Integer](https://leetcode.com/problems/find-the-index-of-the-large-integer/) | [solution](https://leetcode.com/problems/find-the-index-of-the-large-integer/solutions/2885830/find-the-index-of-the-large-integer/?orderBy=most_votes) | [C++](1501-2000/1533-Find-the-Index-of-the-Large-Integer/cpp-1533/) | | |
 | | | | | | |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [solution](https://leetcode.com/problems/kth-missing-positive-number/solution/) | [C++](1501-2000/1539-Kth-Missing-Positive-Number/cpp-1539/) | | |
 | | | | | | |
@@ -2241,7 +2250,7 @@
 | 2409 | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | [无] | [C++](2001-2500/2409-Count-Days-Spent-Together/cpp2409/) | | |
 | 2410 | [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/) | [无] | [C++](2001-2500/2410-Maximum-Matching-of-Players-With-Trainers/cpp2410/) | | |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](https://leetcode.com/problems/smallest-subarrays-with-maximum-bitwise-or/) | [无][缺：O(n) 算法] | [C++](2001-2500/2411-Smallest-Subarrays-With-Maximum-Bitwise-OR/cpp2411/) | | |
-| | | | | | |
+| 2412 | [Minimum Money Required Before Transactions](https://leetcode.com/problems/minimum-money-required-before-transactions/description/) | [无] [缺：不用 sort] | [C++](2001-2500/2412-Minimum-Money-Required-Before-Transactions/cpp-2412/) | | |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | [无] | [C++](2001-2500/2413-Smallest-Even-Multiple/cpp-2413/) | | |
 | 2414 | [Length of the Longest Alphabetical Continuous Substring](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/) | [无] | [C++](2001-2500/2414-Length-of-the-Longest-Alphabetical-Continuous-Substring/cpp-2414/) | | |
 | 2415 | [Reverse Odd Levels of Binary Tree](https://leetcode.com/problems/reverse-odd-levels-of-binary-tree/) | [无] | [C++](2001-2500/2415-Reverse-Odd-Levels-of-Binary-Tree/cpp-2415/) | | |
@@ -2288,7 +2297,7 @@
 | 2456 | [Most Popular Video Creator](https://leetcode.com/problems/most-popular-video-creator/) | [无] | [C++](2001-2500/2456-Most-Popular-Video-Creator/cpp-2456/) | | |
 | 2457 | [Minimum Addition to Make Integer Beautiful](https://leetcode.com/problems/minimum-addition-to-make-integer-beautiful/) | [无] | [C++](2001-2500/2457-Minimum-Addition-to-Make-Integer-Beautiful/cpp-2457/) | | |
 | 2458 | [Height of Binary Tree After Subtree Removal Queries](https://leetcode.com/problems/height-of-binary-tree-after-subtree-removal-queries/) | [无] | [C++](2001-2500/2458-Height-of-Binary-Tree-After-Subtree-Removal-Queries/cpp-2458/) | | |
-| | | | | | |
+| 2459 | [Sort Array by Moving Items to Empty Space](https://leetcode.com/problems/sort-array-by-moving-items-to-empty-space/description/) | [无] | [C++](2001-2500/2459-Sort-Array-by-Moving-Items-to-Empty-Space/cpp-2459/) | | |
 | 2460 | [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/) | [无] | [C++](2001-2500/2460-Apply-Operations-to-an-Array/cpp-2460/) | | |
 | 2461 | [Maximum Sum of Distinct Subarrays With Length K](https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/) | [无] | [C++](2001-2500/2461-Maximum-Sum-of-Distinct-Subarrays-With-Length-K/cpp-2461/) | | |
 | 2462 | [Total Cost to Hire K Workers](https://leetcode.com/problems/total-cost-to-hire-k-workers/) | [无] | [C++](2001-2500/2462-Total-Cost-to-Hire-K-Workers/cpp-2462/) | | |
@@ -2303,6 +2312,80 @@
 | 2471 | [Minimum Number of Operations to Sort a Binary Tree by Level](https://leetcode.com/problems/minimum-number-of-operations-to-sort-a-binary-tree-by-level/) | [无] | [C++](2001-2500/2471-Minimum-Number-of-Operations-to-Sort-a-Binary-Tree-by-Level/cpp-2471/) | | |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [无] | [C++](2001-2500/2472-Maximum-Number-of-Non-overlapping-Palindrome-Substrings/cpp-2472/) | | |
 | 2473 | [Minimum Cost to Buy Apples](https://leetcode.com/problems/minimum-cost-to-buy-apples/description/) | [无] | [C++](2001-2500/2473-Minimum-Cost-to-Buy-Apples/cpp-2473/) | | |
+| 2474 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2475 | [Number of Unequal Triplets in Array](https://leetcode.com/problems/number-of-unequal-triplets-in-array/) | [无] | [C++](2001-2500/2475-Number-of-Unequal-Triplets-in-Array/cpp-2475/) | | |
+| 2476 | [Closest Nodes Queries in a Binary Search Tree](https://leetcode.com/problems/closest-nodes-queries-in-a-binary-search-tree/) | [无] | [C++](2001-2500/2476-Closest-Nodes-Queries-in-a-Binary-Search-Tree/cpp-2476/) | | |
+| 2477 | [Minimum Fuel Cost to Report to the Capital](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/) | [无] | [C++](2001-2500/2477-Minimum-Fuel-Cost-to-Report-to-the-Capital/cpp-2477/) | | |
+| 2478 | [Number of Beautiful Partitions](https://leetcode.com/problems/number-of-beautiful-partitions/) | [无] | [C++](2001-2500/2478-Number-of-Beautiful-Partitions/cpp-2478/) | | |
+| 2479 | [Maximum XOR of Two Non-Overlapping Subtrees](https://leetcode.com/problems/maximum-xor-of-two-non-overlapping-subtrees/description/) | [无] | [C++](2001-2500/2479-Maximum-XOR-of-Two-Non-Overlapping-Subtrees/cpp-2479/) | | |
+| 2480 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2481 | [Minimum Cuts to Divide a Circle](https://leetcode.com/problems/minimum-cuts-to-divide-a-circle/) | [无] | [C++](2001-2500/2481-Minimum-Cuts-to-Divide-a-Circle/cpp-2481/) | | |
+| 2482 | [Difference Between Ones and Zeros in Row and Column](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/) | [无] | [C++](2001-2500/2482-Difference-Between-Ones-and-Zeros-in-Row-and-Column/cpp-2482/) | | |
+| 2483 | [Minimum Penalty for a Shop](https://leetcode.com/problems/minimum-penalty-for-a-shop/) | [无] | [C++](2001-2500/2483-Minimum-Penalty-for-a-Shop/cpp-2483/) | | |
+| 2484 | [Count Palindromic Subsequences](https://leetcode.com/problems/count-palindromic-subsequences/) | [无] | [C++](2001-2500/2484-Count-Palindromic-Subsequences/cpp-2484/) | | |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer/) | [无] | [C++](2001-2500/2485-Find-the-Pivot-Integer/cpp-2485/) | | |
+| 2486 | [Append Characters to String to Make Subsequence](https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/) | [无] | [C++](2001-2500/2486-Append-Characters-to-String-to-Make-Subsequence/cpp-2486/) | | |
+| 2487 | [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) | [无] | [C++](2001-2500/2487-Remove-Nodes-From-Linked-List/cpp-2487/) | | |
+| 2488 | [Count Subarrays With Median K](https://leetcode.com/problems/count-subarrays-with-median-k/) | [无] | [C++](2001-2500/2488-Count-Subarrays-With-Median-K/cpp-2488/) | | |
+| 2489 | [Number of Substrings With Fixed Ratio](https://leetcode.com/problems/number-of-substrings-with-fixed-ratio/description/) | [无] | [C++](2001-2500/2489-Number-of-Substrings-With-Fixed-Ratio/cpp-2489/) | | |
+| 2490 | [Circular Sentence](https://leetcode.com/problems/circular-sentence/) | [无] | [C++](2001-2500/2490-Circular-Sentence/cpp-2490/) | | |
+| 2491 | [Divide Players Into Teams of Equal Skill](https://leetcode.com/problems/divide-players-into-teams-of-equal-skill/) | [无] | [C++](2001-2500/2491-Divide-Players-Into-Teams-of-Equal-Skill/cpp-2491/) | | |
+| 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/) | [无] | [C++](2001-2500/2492-Minimum-Score-of-a-Path-Between-Two-Cities/cpp-2492/) | | |
+| 2493 | [Divide Nodes Into the Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/) | [无] | [C++](2001-2500/2493-Divide-Nodes-Into-the-Maximum-Number-of-Groups/cpp-2493/) | | |
+| 2494 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2495 | [Number of Subarrays Having Even Product](https://leetcode.com/problems/number-of-subarrays-having-even-product/description/) | [无] | [C++](2001-2500/2495-Number-of-Subarrays-Having-Even-Product/cpp-2495) | | |
+| 2496 | [Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/) | [无] | [C++](2001-2500/2496-Maximum-Value-of-a-String-in-an-Array/cpp-2496) | | |
+| 2497 | [Maximum Star Sum of a Graph](https://leetcode.com/problems/maximum-star-sum-of-a-graph/) | [无] | [C++](2001-2500/2497-Maximum-Star-Sum-of-a-Graph/cpp-2497) | | |
+| 2498 | [Frog Jump II](https://leetcode.com/problems/frog-jump-ii/) | [无] | [C++](2001-2500/2498-Frog-Jump-II/cpp-2498/) | | |
+| 2499 | [Minimum Total Cost to Make Arrays Unequal](https://leetcode.com/problems/minimum-total-cost-to-make-arrays-unequal/description/) | [无] | [C++](2001-2500/2499-Minimum-Total-Cost-to-Make-Arrays-Unequal/cpp-2499/) | | |
+| 2500 | [Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/) | [无] | [C++](2001-2500/2500-Delete-Greatest-Value-in-Each-Row/cpp-2500/) | | |
+| 2501 | [Longest Square Streak in an Array](https://leetcode.com/problems/longest-square-streak-in-an-array/) | [无] | [C++](2001-2500/2501-Longest-Square-Streak-in-an-Array/cpp-2501/) | | |
+| 2502 | [Design Memory Allocator](https://leetcode.com/problems/design-memory-allocator/) | [无] | [C++](2001-2500/2502-Design-Memory-Allocator/cpp-2502/) | | |
+| 2503 | [Maximum Number of Points From Grid Queries](https://leetcode.com/problems/maximum-number-of-points-from-grid-queries/) | [无] | [C++](2001-2500/2503-Maximum-Number-of-Points-From-Grid-Queries/cpp-2503/) | | |
+| 2504 | Database Problem: [Link](https://github.com/liuyubobobo/Play-Leetcode-Database/) | - | - | - | - |
+| 2505 | [Bitwise OR of All Subsequence Sums](https://leetcode.com/problems/bitwise-or-of-all-subsequence-sums/description/) | [无] | [C++](2001-2500/2505-Bitwise-OR-of-All-Subsequence-Sums/cpp-2505/) | | |
+| 2506 | [Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) | [无] | [C++](2001-2500/2506-Count-Pairs-Of-Similar-Strings/cpp-2506/) | | |
+| 2507 | [Smallest Value After Replacing With Sum of Prime Factors](https://leetcode.com/problems/smallest-value-after-replacing-with-sum-of-prime-factors/) | [无] | [C++](2001-2500/2507-Smallest-Value-After-Replacing-With-Sum-of-Prime-Factors/cpp-2507/) | | |
+| 2508 | [Add Edges to Make Degrees of All Nodes Even](https://leetcode.com/problems/add-edges-to-make-degrees-of-all-nodes-even/) | [无] | [C++](2001-2500/2508-Add-Edges-to-Make-Degrees-of-All-Nodes-Even/cpp-2508/) | | |
+| 2509 | [Cycle Length Queries in a Tree](https://leetcode.com/problems/cycle-length-queries-in-a-tree/) | [无] | [C++](2001-2500/2509-Cycle-Length-Queries-in-a-Tree/cpp-2509/) | | |
+| 2510 | [Check if There is a Path With Equal Number of 0's And 1's](https://leetcode.com/problems/check-if-there-is-a-path-with-equal-number-of-0s-and-1s/description/) | [无] | [C++](2001-2500/2510-Check-if-There-is-a-Path-With-Equal-Number-of-0s-And-1s/cpp-2510/) | | |
+| 2511 | [Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) | [无] | [C++](2001-2500/2511-Maximum-Enemy-Forts-That-Can-Be-Captured/cpp-2511/) | | |
+| 2512 | [Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) | [无] | [C++](2001-2500/2512-Reward-Top-K-Students/cpp-2512/) | | |
+| 2513 | [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [无] | [C++](2001-2500/2513-Minimize-the-Maximum-of-Two-Arrays/cpp-2513/) | | |
+| 2514 | [Count Anagrams](https://leetcode.com/problems/count-anagrams/) | [无] | [C++](2001-2500/2514-Count-Anagrams/cpp-2514/) | | |
+| 2515 | [Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/) | [无] | [C++](2001-2500/2515-Shortest-Distance-to-Target-String-in-a-Circular-Array/cpp-2515/) | | |
+| 2516 | [Take K of Each Character From Left and Right](2001-2500/2516-Take-K-of-Each-Character-From-Left-and-Right/cpp-2516/) | [无] | [C++](2001-2500/2516-Take-K-of-Each-Character-From-Left-and-Right/cpp-2516/) | | |
+| 2517 | [Maximum Tastiness of Candy Basket](2001-2500/2517-Maximum-Tastiness-of-Candy-Basket/cpp-2517/) | [无] | [C++](2001-2500/2517-Maximum-Tastiness-of-Candy-Basket/cpp-2517/) | | |
+| 2518 | [Number of Great Partitions](https://leetcode.com/problems/number-of-great-partitions/) | [无] | [C++](2001-2500/2518-Number-of-Great-Partitions/cpp-2518/) | | |
+| 2519 | [Count the Number of K-Big Indices](https://leetcode.com/problems/count-the-number-of-k-big-indices/description/) | [无] | [C++](2001-2500/2519-Count-the-Number-of-K-Big-Indices/cpp-2519/) | | |
+| 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | [无] | [C++](2001-2500/2520-Count-the-Digits-That-Divide-a-Number/cpp-2520/) | | |
+| 2521 | [Distinct Prime Factors of Product of Array](https://leetcode.com/problems/distinct-prime-factors-of-product-of-array/) | [无] | [C++](2001-2500/2521-Distinct-Prime-Factors-of-Product-of-Array/cpp-2521/) | | |
+| 2522 | [Partition String Into Substrings With Values at Most K](https://leetcode.com/problems/partition-string-into-substrings-with-values-at-most-k/) | [无] | [C++](2001-2500/2522-Partition-String-Into-Substrings-With-Values-at-Most-K/cpp-2522/) | | |
+| 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | [无] | [C++](2001-2500/2523-Closest-Prime-Numbers-in-Range/cpp-2523/) | | |
+| 2524 | [Maximum Frequency Score of a Subarray](https://leetcode.com/problems/maximum-frequency-score-of-a-subarray/description/) | [无] | [C++](2001-2500/2524-Maximum-Frequency-Score-of-a-Subarray/cpp-2524/) | | |
+| 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [无] | [C++](2001-2500/2525-Categorize-Box-According-to-Criteria/cpp-2525/) | | |
+| 2526 | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [无] | [C++](2001-2500/2526-Find-Consecutive-Integers-from-a-Data-Stream/cpp-2526/) | | |
+| 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | [无] | [C++](2001-2500/2527-Find-Xor-Beauty-of-Array/cpp-2527/) | | |
+| 2528 | [Maximize the Minimum Powered City](https://leetcode.com/problems/maximize-the-minimum-powered-city/) | [无] | [C++](2001-2500/2528-Maximize-the-Minimum-Powered-City/cpp-2528/) | | |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | [无] | [C++](2001-2500/2529-Maximum-Count-of-Positive-Integer-and-Negative-Integer/cpp-2529/) | | |
+| 2530 | [Maximal Score After Applying K Operations](https://leetcode.com/problems/maximal-score-after-applying-k-operations/) | [无] | [C++](2001-2500/2530-Maximal-Score-After-Applying-K-Operations/cpp-2530/) | | |
+| 2531 | [Make Number of Distinct Characters Equal](https://leetcode.com/problems/make-number-of-distinct-characters-equal/) | [无] | [C++](2001-2500/2531-Make-Number-of-Distinct-Characters-Equal/cpp-2531/) | | |
+| 2532 | [Time to Cross a Bridge](https://leetcode.com/problems/time-to-cross-a-bridge/description/) | [无] | [C++](2001-2500/2532-Time-to-Cross-a-Bridge/cpp-2532/) | | |
+| 2533 | [Number of Good Binary Strings](https://leetcode.com/problems/number-of-good-binary-strings/) | [无] | [C++](2001-2500/2533-Number-of-Good-Binary-Strings/cpp-2533/) | | |
+| 2534 | [Time Taken to Cross the Door](https://leetcode.com/problems/time-taken-to-cross-the-door/description/) | [无] | [C++](2001-2500/2534-Time-Taken-to-Cross-the-Door/cpp-2534/) | | |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | [无] | [C++](2001-2500/2535-Difference-Between-Element-Sum-and-Digit-Sum-of-an-Array/cpp-2535/) | | |
+| 2536 | [Increment Submatrices by One](https://leetcode.com/problems/increment-submatrices-by-one/) | [无] | [C++](2001-2500/2536-Increment-Submatrices-by-One/cpp-2536/) | | |
+| 2537 | [Count the Number of Good Subarrays](https://leetcode.com/problems/count-the-number-of-good-subarrays/) | [无] | [C++](2001-2500/2537-Count-the-Number-of-Good-Subarrays/cpp-2537/) | | |
+| | | | | | |
+| 2539 | [Count the Number of Good Subsequences](https://leetcode.com/problems/count-the-number-of-good-subsequences/) | [无] | [C++](2001-2500/2539-Count-the-Number-of-Good-Subsequences/cpp-2539/) | | |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [无] | [C++](2001-2500/2540-Minimum-Common-Value/cpp-2540/) | | |
+| 2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | [无] | [C++](2001-2500/2541-Minimum-Operations-to-Make-Array-Equal-II/cpp-2541/) | | |
+| 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [无] | [C++](2001-2500/2542-Maximum-Subsequence-Score/cpp-2542/) | | |
+| | | | | | |
+| 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum/) | [无] | [C++](2001-2500/2544-Alternating-Digit-Sum/cpp-2544/) | | |
+| 2545 | [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/) | [无] | [C++](2001-2500/2545-Sort-the-Students-by-Their-Kth-Score/cpp-2545/) | | |
+| 2546 | [Apply Bitwise Operations to Make Strings Equal](https://leetcode.com/problems/apply-bitwise-operations-to-make-strings-equal/) | [无] | [C++](2001-2500/2546-Apply-Bitwise-Operations-to-Make-Strings-Equal/cpp-2546/) | | |
+| 2547 | [Minimum Cost to Split an Array](https://leetcode.com/problems/minimum-cost-to-split-an-array/) | [无] | [C++](2001-2500/2547-Minimum-Cost-to-Split-an-Array/cpp-2547/) | | |
 | | | | | | |
 
 ### 力扣中文站比赛 [传送门](LC/)
